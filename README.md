@@ -5,7 +5,7 @@ A program for classifying texts describing incidents [Protests, Riots, Battles, 
 The database was downloaded from:
 https://acleddata.com
 
-Three machine learning models have been created:    
+Three machine learning models have been created:
 - Logistic regression
 - RandomForestClassifier
 - Naive Bayes
