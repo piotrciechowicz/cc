@@ -1,7 +1,7 @@
 # Crisis classifiers
 
 A program for classifying texts describing incidents [Protests, Riots, Battles, Explosions/Remote violence, Violence against civilians, Strategic developments].
-
+ 
 The database was downloaded from:
 https://acleddata.com
  
