@@ -1,4 +1,4 @@
-# Crisis classifiers 
+# Crisis classifiers
  
 A program for classifying texts describing incidents [Protests, Riots, Battles, Explosions/Remote violence, Violence against civilians, Strategic developments].
 
